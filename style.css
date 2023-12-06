@@ -1,4 +1,31 @@
+*,
+*::after,
+*::before {
+  user-select: none;
+  box-sizing: border-box;
+}
+
 html {
-  background-color: #1d1f22;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
   color: #ffffffb9;
+  text-align: center;
+  background-color: #1d1f22;
+}
+
+html h1,
+a {
+  color: #ace7eb;
+  text-decoration: none;
+  transition: all 0.35s ease-in-out;
+}
+
+a:hover {
+  color: #31a9d9;
+  letter-spacing: 0.1rem;
+}
+
+img {
+  max-width: 100%;
 }
