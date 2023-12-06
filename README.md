@@ -11,4 +11,4 @@ Este parrafo es para oficializar y aprender acerca del versionado como tal en Gi
 
 # **SITIO OFICIAL**
 
-Visita mi sitio en GH PAGES aqui: [GIT HUB PAGE SITE](https://legnar27.github.io/repositorioDePrueba/)
+Visita mi sitio en GH PAGES aqui: [GIT HUB PAGE SITE](https://legnar27.github.io/repositorioDePrueba/){:target="\_blank"}
