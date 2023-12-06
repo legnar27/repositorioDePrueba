@@ -1,0 +1,26 @@
+[33m7a60997[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m cambiando favicon y agregando _blank
+[33ma2f8aff[m Agregando favicon y link para el gh page en el README
+[33m98a7cd0[m[33m ([m[1;31morigin/gh-pages[m[33m, [m[1;32mgh-pages[m[33m)[m Arreglando el .html para que se vea presentable
+[33m0e4ad4b[m v1.0.0
+[33m8c90597[m[33m ([m[1;33mtag: [m[1;33mv1.0.0[m[33m)[m Agregando respaldo del log de mi repositorio
+[33mfb750e7[m agregando dos parrafos xd
+[33m3a6d545[m resolviendo conflicto al querer modificar un commit ya subido con push
+[33m46615b8[m agregando estacines del año con fechas
+[33me5577e2[m agregando estaciones del año
+[33mb081e1f[m resolviendo conflicto merge main/html en el documento index.html
+[33mb43c9af[m[33m ([m[1;32mhtml[m[33m)[m agregando js al html
+[33mc5c0ce7[m agregando el css al htlm
+[33m38a1f14[m resolviendo temas de combinacion
+[33m7321dcc[m agregando de nuevo el html
+[33m37ea026[m eliminando el html
+[33m776c9f0[m Merge branch 'js'
+[33m1c31deb[m creando el archivo script.js en la rama js
+[33mc7980e4[m borrando el archivo indez.html en la rama css
+[33m7de4720[m creando archivo style.css en la rama css
+[33m6c24f65[m Creando archivo index.html en la rama html
+[33m3b34c40[m Ignorando archivos tipo .exe
+[33m51417df[m Creando la licencia de mi repositorio
+[33mea0a5a6[m Cambiando la imagen del README
+[33md7ab74c[m Agregando contenido despues de vincular con GitHud
+[33m03fd13b[m Agregando contenido incial al README
+[33m4698132[m Mi primer commit ☠️
