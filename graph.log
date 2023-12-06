@@ -1,0 +1,30 @@
+* fb750e7 agregando dos parrafos xd
+*   3a6d545 resolviendo conflicto al querer modificar un commit ya subido con push
+|\  
+| * e5577e2 agregando estaciones del año
+* | 46615b8 agregando estacines del año con fechas
+|/  
+*   b081e1f resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * b43c9af agregando js al html
+* | c5c0ce7 agregando el css al htlm
+|/  
+*   38a1f14 resolviendo temas de combinacion
+|\  
+| * 7321dcc agregando de nuevo el html
+| * 37ea026 eliminando el html
+* |   776c9f0 Merge branch 'js'
+|\ \  
+| * | 1c31deb creando el archivo script.js en la rama js
+* | | c7980e4 borrando el archivo indez.html en la rama css
+* | | 7de4720 creando archivo style.css en la rama css
+| |/  
+|/|   
+* | 6c24f65 Creando archivo index.html en la rama html
+|/  
+* 3b34c40 Ignorando archivos tipo .exe
+* 51417df Creando la licencia de mi repositorio
+* ea0a5a6 Cambiando la imagen del README
+* d7ab74c Agregando contenido despues de vincular con GitHud
+* 03fd13b Agregando contenido incial al README
+* 4698132 Mi primer commit ☠️

@@ -1,0 +1,129 @@
+commit fb750e72cd666e7e536a53f03c4aad411aa6993d
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 12:04:26 2023 -0500
+
+    agregando dos parrafos xd
+
+commit 3a6d545e4e4cf6856d5fb8cc6f41f82533eb6cf9
+Merge: 46615b8 e5577e2
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 11:56:48 2023 -0500
+
+    resolviendo conflicto al querer modificar un commit ya subido con push
+
+commit 46615b8beca0f611fc1d0a462ce4285b2ea88b9c
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 11:38:08 2023 -0500
+
+    agregando estacines del año con fechas
+
+commit e5577e228fa9a864b1af367bc9b2c6392c416730
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 11:38:08 2023 -0500
+
+    agregando estaciones del año
+
+commit b081e1fc811341ab865357572af9785f815ecf17
+Merge: c5c0ce7 b43c9af
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 11:29:05 2023 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit b43c9aff260752e5f175deac454a61f2d55b3195
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 11:23:01 2023 -0500
+
+    agregando js al html
+
+commit c5c0ce75ceea1b0f2b8c562e3e652425f28280e3
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 11:19:52 2023 -0500
+
+    agregando el css al htlm
+
+commit 38a1f14e27c360af1dfc5862066789121b07ce9a
+Merge: 776c9f0 7321dcc
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 11:12:07 2023 -0500
+
+    resolviendo temas de combinacion
+
+commit 7321dcc39c35264ad7ed47c91a078453b8211706
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 11:05:55 2023 -0500
+
+    agregando de nuevo el html
+
+commit 37ea0262b917a0b980424c9cfb50675cb83ebf0a
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 11:04:49 2023 -0500
+
+    eliminando el html
+
+commit 776c9f0ef72768e80da333363a93216ee94672a8
+Merge: c7980e4 1c31deb
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 11:00:12 2023 -0500
+
+    Merge branch 'js'
+
+commit 1c31debc5ace927ae4956660b1367705a448035f
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 10:50:21 2023 -0500
+
+    creando el archivo script.js en la rama js
+
+commit c7980e46c67e9b1de544a7ae26634d4452ff8b64
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 10:46:26 2023 -0500
+
+    borrando el archivo indez.html en la rama css
+
+commit 7de4720061d0752504e6c569b0fcc7c4abce3c45
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 10:43:48 2023 -0500
+
+    creando archivo style.css en la rama css
+
+commit 6c24f65ec3fd5fbfd71e9074826df093ffdedc51
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 10:38:06 2023 -0500
+
+    Creando archivo index.html en la rama html
+
+commit 3b34c40c798efd0d3791f0d2ab131ffb5a654124
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Tue Dec 5 09:49:10 2023 -0500
+
+    Ignorando archivos tipo .exe
+
+commit 51417df72ffd0acdec9d04a66b1b90788c0d1740
+Author: Legnar <94004125+legnar27@users.noreply.github.com>
+Date:   Mon Dec 4 10:24:40 2023 -0500
+
+    Creando la licencia de mi repositorio
+
+commit ea0a5a6a3fbe85150ba293ddf885ce2b78e61d55
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Mon Dec 4 10:17:10 2023 -0500
+
+    Cambiando la imagen del README
+
+commit d7ab74c1b8979352dc9232732645879475aba171
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Mon Dec 4 10:13:56 2023 -0500
+
+    Agregando contenido despues de vincular con GitHud
+
+commit 03fd13b76a6172d39ee81f0ce8d8c42ada3355d6
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Mon Dec 4 09:47:00 2023 -0500
+
+    Agregando contenido incial al README
+
+commit 469813294889bb16bbd85bc8c925fff84753ed11
+Author: Angel Casillas <angel27casillas@gmail.com>
+Date:   Mon Dec 4 09:37:44 2023 -0500
+
+    Mi primer commit ☠️
